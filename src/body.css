@@ -1,0 +1,40 @@
+.posicion {
+    border: 3px solid rgb(66, 35, 35);
+    text-align: center;
+    color: white;
+    background-color: rgb(66, 35, 35);
+}
+
+.footer {
+    border-top: 3px solid rgb(66, 35, 35);
+    text-align: center;
+    
+    color: white;
+    background-color: rgb(66, 35, 35);
+}
+
+.carrito {
+    right: 0;
+    width: 400;
+    top: 0;
+}
+
+.listado {
+    text-align: center;
+    color: white;
+    background-color: rgb(195, 85, 85);
+    border-right: 2px solid rgb(66, 35, 35);
+}
+
+.carrito {
+    text-align: center;
+    color: white;
+    background-color: rgb(195, 85, 85);
+}
+
+body{
+    background-color: rgb(195, 85, 85);
+    border: 3px solid rgb(66, 35, 35);
+    width: 800px;
+    margin: 0 auto;
+}
